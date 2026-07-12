@@ -6,7 +6,7 @@
 - ⚡ I specialize in **model optimization** (TensorRT, ONNX) and **industrial camera integration** (GigE Vision, USB3 Vision, Hikrobot MVS)
 - 🧪 Contributed to a **TÜBİTAK-funded** industrial machine vision R&D project
 - 🤖 Daily driver of AI-assisted development tools (Claude Code, Cursor)
-- 🌐 Portfolio & blog: *your-site-here.com* &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) &nbsp;|&nbsp; 📫 ahmedakyll@gmail.com
+- 🌐 Portfolio & blog: *ahmedakyol.com* &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-akyol-84766622b/) &nbsp;|&nbsp; 📫 ahmedakyll@gmail.com
 
 ---
 
