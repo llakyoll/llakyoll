@@ -46,9 +46,10 @@ I have contributed to a TÜBİTAK-funded industrial machine vision R&D project.
 ## `04` Activity
 
 <div align="center">
-  <a href="https://github.com/llakyoll?tab=overview">
-    <img src="./assets/activity-card.svg" width="100%" alt="View Ahmed's contribution activity on GitHub" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
+    <img src="./assets/contributions-light.svg" width="100%" alt="Ahmed's weekly and daily GitHub contributions over the last year" />
+  </picture>
 </div>
 
 ---
