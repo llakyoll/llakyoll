@@ -46,7 +46,9 @@ I have contributed to a TÜBİTAK-funded industrial machine vision R&D project.
 ## `04` Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llakyoll&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="Ahmed's GitHub activity statistics" />
+  <a href="https://github.com/llakyoll?tab=overview">
+    <img src="./assets/activity-card.svg" width="100%" alt="View Ahmed's contribution activity on GitHub" />
+  </a>
 </div>
 
 ---
