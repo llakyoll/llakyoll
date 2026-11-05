@@ -18,8 +18,6 @@ jobs:
           python-version: '3.12'
       - name: Render graph
         run: python scripts/contribution_graph.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit updated SVGs
         run: |
           git config user.name "github-actions[bot]"
